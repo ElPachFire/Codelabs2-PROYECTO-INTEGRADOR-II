@@ -1,4 +1,4 @@
-# 🚀 CodeLabs de Visión por Computador & NLP — Proyecto Completo
+# 🚀 CodeLabs — Proyectos durante el segundo semestre 2025
 
 Este repositorio reúne todos los ejercicios y mini-proyectos realizados durante los CodeLabs, incluyendo visión por computador, clasificación de texto, redes neuronales y uso de datasets externos.  
 Todo está organizado para que pueda ejecutarse fácilmente en cualquier entorno.
