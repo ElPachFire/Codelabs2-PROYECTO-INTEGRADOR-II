@@ -1,0 +1,12 @@
+Requisitos e instalación
+
+-Tener Python 3.9+ instalado.
+-Instalar dependencias en un entorno virtual (opcional pero recomendado).
+-python3 -m venv .venv
+-source .venv/bin/activate
+-pip install --upgrade pip
+- pip install scikit-learn pandas numpy joblib matplotlib
+-Archivos que generaremos/usarás:
+
+clasificador-comentarios-negocio.py (script principal)
+tfidf.joblib y modelo.joblib (artefactos guardados)
